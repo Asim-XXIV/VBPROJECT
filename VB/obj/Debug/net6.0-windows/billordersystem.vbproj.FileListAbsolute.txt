@@ -1,0 +1,102 @@
+D:\Visual programming\billordersystem\bin\Debug\net6.0-windows\billordersystem.exe
+D:\Visual programming\billordersystem\bin\Debug\net6.0-windows\billordersystem.deps.json
+D:\Visual programming\billordersystem\bin\Debug\net6.0-windows\billordersystem.runtimeconfig.json
+D:\Visual programming\billordersystem\bin\Debug\net6.0-windows\billordersystem.dll
+D:\Visual programming\billordersystem\bin\Debug\net6.0-windows\billordersystem.pdb
+D:\Visual programming\billordersystem\obj\Debug\net6.0-windows\billordersystem.Form1.resources
+D:\Visual programming\billordersystem\obj\Debug\net6.0-windows\billordersystem.vbproj.GenerateResource.cache
+D:\Visual programming\billordersystem\obj\Debug\net6.0-windows\billordersystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual programming\billordersystem\obj\Debug\net6.0-windows\billordersystem.AssemblyInfoInputs.cache
+D:\Visual programming\billordersystem\obj\Debug\net6.0-windows\billordersystem.AssemblyInfo.vb
+D:\Visual programming\billordersystem\obj\Debug\net6.0-windows\billordersystem.vbproj.CoreCompileInputs.cache
+D:\Visual programming\billordersystem\obj\Debug\net6.0-windows\billordersystem.dll
+D:\Visual programming\billordersystem\obj\Debug\net6.0-windows\refint\billordersystem.dll
+D:\Visual programming\billordersystem\obj\Debug\net6.0-windows\billordersystem.pdb
+D:\Visual programming\billordersystem\obj\Debug\net6.0-windows\billordersystem.genruntimeconfig.cache
+D:\Visual programming\billordersystem\obj\Debug\net6.0-windows\ref\billordersystem.dll
+D:\Visual programming\billordersystem\obj\Debug\net6.0-windows\billordersystem.Form2.resources
+C:\Users\Harendra\OneDrive\Desktop\New folder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.Form1.resources
+C:\Users\Harendra\OneDrive\Desktop\New folder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.Form2.resources
+C:\Users\Harendra\OneDrive\Desktop\New folder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.vbproj.GenerateResource.cache
+C:\Users\Harendra\OneDrive\Desktop\New folder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harendra\OneDrive\Desktop\New folder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.AssemblyInfoInputs.cache
+C:\Users\Harendra\OneDrive\Desktop\New folder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.AssemblyInfo.vb
+C:\Users\Harendra\OneDrive\Desktop\New folder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.vbproj.CoreCompileInputs.cache
+C:\Users\Harendra\OneDrive\Desktop\New folder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.dll
+C:\Users\Harendra\OneDrive\Desktop\New folder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\refint\billordersystem.dll
+C:\Users\Harendra\OneDrive\Desktop\New folder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.pdb
+C:\Users\Harendra\OneDrive\Desktop\New folder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.exe
+C:\Users\Harendra\OneDrive\Desktop\New folder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.deps.json
+C:\Users\Harendra\OneDrive\Desktop\New folder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.runtimeconfig.json
+C:\Users\Harendra\OneDrive\Desktop\New folder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.dll
+C:\Users\Harendra\OneDrive\Desktop\New folder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.pdb
+C:\Users\Harendra\OneDrive\Desktop\New folder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.genruntimeconfig.cache
+C:\Users\Harendra\OneDrive\Desktop\New folder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\ref\billordersystem.dll
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.exe
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.deps.json
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.runtimeconfig.json
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.dll
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.pdb
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.Form1.resources
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.form2.resources
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.form3.resources
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.vbproj.GenerateResource.cache
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.AssemblyInfoInputs.cache
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.AssemblyInfo.vb
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.vbproj.CoreCompileInputs.cache
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.dll
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\refint\billordersystem.dll
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.pdb
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.genruntimeconfig.cache
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\ref\billordersystem.dll
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.Form4.resources
+C:\Users\Harendra\OneDrive\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.Form5.resources
+D:\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.exe
+D:\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.deps.json
+D:\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.runtimeconfig.json
+D:\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.dll
+D:\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.pdb
+D:\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.Form1.resources
+D:\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.form2.resources
+D:\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.form3.resources
+D:\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.Form4.resources
+D:\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.Form5.resources
+D:\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.vbproj.GenerateResource.cache
+D:\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.AssemblyInfoInputs.cache
+D:\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.AssemblyInfo.vb
+D:\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.vbproj.CoreCompileInputs.cache
+D:\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.dll
+D:\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\refint\billordersystem.dll
+D:\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.pdb
+D:\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.genruntimeconfig.cache
+D:\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\ref\billordersystem.dll
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.exe
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.deps.json
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.runtimeconfig.json
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.dll
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\billordersystem.pdb
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.Form1.resources
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.form2.resources
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.form3.resources
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.Form4.resources
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.Form5.resources
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.vbproj.GenerateResource.cache
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.AssemblyInfoInputs.cache
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.AssemblyInfo.vb
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.vbproj.CoreCompileInputs.cache
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.dll
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\refint\billordersystem.dll
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.pdb
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.genruntimeconfig.cache
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\ref\billordersystem.dll
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.vbproj.AssemblyReference.cache
+C:\Users\Asim\Desktop\Billorder\vbnet\vbnet\VB\obj\Debug\net6.0-windows\billordersystem.vbproj.CopyComplete
