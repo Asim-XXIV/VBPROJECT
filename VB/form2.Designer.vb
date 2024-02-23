@@ -37,6 +37,8 @@ Partial Class form2
         btnGenerateBill = New Button()
         subTotal57835 = New Label()
         txtSubTotal = New TextBox()
+        txtInvoiceNo = New TextBox()
+        Label4 = New Label()
         CType(dgvItems, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
@@ -185,11 +187,32 @@ Partial Class form2
         txtSubTotal.Size = New Size(155, 31)
         txtSubTotal.TabIndex = 10
         ' 
-        ' form2
+        ' txtInvoiceNo
+        ' 
+        txtInvoiceNo.Location = New Point(121, 13)
+        txtInvoiceNo.Margin = New Padding(4)
+        txtInvoiceNo.Name = "txtInvoiceNo"
+        txtInvoiceNo.Size = New Size(126, 31)
+        txtInvoiceNo.TabIndex = 11
+        ' 
+        ' Label4
+        ' 
+        Label4.AutoSize = True
+        Label4.Font = New Font("Segoe UI", 10.2F, FontStyle.Regular, GraphicsUnit.Point)
+        Label4.Location = New Point(3, 9)
+        Label4.Margin = New Padding(4, 0, 4, 0)
+        Label4.Name = "Label4"
+        Label4.Size = New Size(117, 30)
+        Label4.TabIndex = 12
+        Label4.Text = "Invoice NO"
+        ' 
+        ' Form2
         ' 
         AutoScaleDimensions = New SizeF(10F, 25F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(1035, 705)
+        Controls.Add(Label4)
+        Controls.Add(txtInvoiceNo)
         Controls.Add(txtSubTotal)
         Controls.Add(subTotal57835)
         Controls.Add(btnGenerateBill)
@@ -202,7 +225,7 @@ Partial Class form2
         Controls.Add(Label2)
         Controls.Add(Label1)
         Margin = New Padding(4)
-        Name = "form2"
+        Name = "Form2"
         Text = "Form1"
         CType(dgvItems, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
@@ -227,6 +250,8 @@ Partial Class form2
     Friend WithEvents Button1 As Button
     Friend WithEvents subTotal57835 As Label
     Friend WithEvents Label5 As Label
-    Friend WithEvents txtInvoiceNo As TextBox
     Friend WithEvents btnGenerateBill As Button
+    Friend WithEvents TextBox1 As TextBox
+    Friend WithEvents txtInvoiceNo As TextBox
+    Friend WithEvents Label4 As Label
 End Class

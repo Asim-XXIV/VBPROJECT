@@ -1,11 +1,11 @@
 ﻿Imports System.Data.SqlClient
 
-Public Class form2
+Public Class Form2
     Public Shared SubTotalAmount As Decimal
     Private connectionString As String = "Data Source=DESKTOP-G82B7UC\SQLEXPRESS;Initial Catalog=Userdetails;Integrated Security=True"
-    Dim invoiceCounter As Integer = 0 ' Initialize to 0
+    Dim invoiceCounter As Integer = 0
 
-    Private Sub form2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+    Private Sub Form2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         ' Retrieve the highest invoice number from the database
         invoiceCounter = GetHighestInvoiceNumber() + 1
     End Sub
@@ -87,9 +87,9 @@ Public Class form2
 
     Public Sub btnGenerateBill_Click(sender As Object, e As EventArgs) Handles btnGenerateBill.Click
         ' Reset the invoice number counter and display it
-        'If txtInvoiceNo IsNot Nothing Then
-        txtInvoiceNo.Text = invoiceCounter.ToString()
-        ' End If
+        If txtInvoiceNo IsNot Nothing Then
+            txtInvoiceNo.Text = invoiceCounter.ToString()
+        End If
 
         ' Increment the invoice counter for the next invoice
         invoiceCounter += 1
@@ -102,10 +102,11 @@ Public Class form2
 
         ' Open Form3
         Dim form3 As New form3() ' Pass 'Me' which represents the current instance of Form1
+        Me.Hide() ' Hide Form2 instead of closing it
         form3.Show()
     End Sub
 
-    Private Sub StoreDataInDatabase()
+    Public Sub StoreDataInDatabase()
         ' Connect to the database and insert data into Billsdetails table
         Using connection As New SqlConnection(connectionString)
             connection.Open()
@@ -131,5 +132,30 @@ Public Class form2
                 Next
             End If
         End Using
+    End Sub
+
+    Public Sub ClearInputParameters()
+        ' Clear the input parameters for a new order
+        If dgvItems IsNot Nothing Then
+            dgvItems.Rows.Clear()
+        End If
+        If txtSubTotal IsNot Nothing Then
+            txtSubTotal.Clear()
+        End If
+        If txtInvoiceNo IsNot Nothing Then
+            txtInvoiceNo.Clear()
+        End If
+    End Sub
+
+    Private Sub txtQuantity_TextChanged(sender As Object, e As EventArgs) Handles txtQuantity.TextChanged
+
+    End Sub
+
+    Private Sub TextBox2_TextChanged(sender As Object, e As EventArgs) Handles txtInvoiceNo.TextChanged
+
+    End Sub
+
+    Private Sub Label4_Click(sender As Object, e As EventArgs) Handles Label4.Click
+
     End Sub
 End Class

@@ -25,7 +25,7 @@ Partial Class form3
         dgvInvoiceDetails = New DataGridView()
         txtTotalPayable = New TextBox()
         subTotal57835 = New Label()
-        btnGenerateBill = New Button()
+        btnNewOrder = New Button()
         Panel1 = New Panel()
         Label4 = New Label()
         Label3 = New Label()
@@ -73,18 +73,18 @@ Partial Class form3
         subTotal57835.TabIndex = 12
         subTotal57835.Text = "Total Payable"
         ' 
-        ' btnGenerateBill
+        ' btnNewOrder
         ' 
-        btnGenerateBill.BackColor = Color.MediumTurquoise
-        btnGenerateBill.FlatStyle = FlatStyle.Popup
-        btnGenerateBill.Font = New Font("Segoe UI", 10.2F, FontStyle.Regular, GraphicsUnit.Point)
-        btnGenerateBill.Location = New Point(945, 588)
-        btnGenerateBill.Margin = New Padding(4)
-        btnGenerateBill.Name = "btnGenerateBill"
-        btnGenerateBill.Size = New Size(119, 38)
-        btnGenerateBill.TabIndex = 11
-        btnGenerateBill.Text = "Print"
-        btnGenerateBill.UseVisualStyleBackColor = False
+        btnNewOrder.BackColor = Color.MediumTurquoise
+        btnNewOrder.FlatStyle = FlatStyle.Popup
+        btnNewOrder.Font = New Font("Segoe UI", 10.2F, FontStyle.Regular, GraphicsUnit.Point)
+        btnNewOrder.Location = New Point(945, 588)
+        btnNewOrder.Margin = New Padding(4)
+        btnNewOrder.Name = "btnNewOrder"
+        btnNewOrder.Size = New Size(119, 38)
+        btnNewOrder.TabIndex = 11
+        btnNewOrder.Text = "New order"
+        btnNewOrder.UseVisualStyleBackColor = False
         ' 
         ' Panel1
         ' 
@@ -202,7 +202,7 @@ Partial Class form3
         Controls.Add(Panel1)
         Controls.Add(txtTotalPayable)
         Controls.Add(subTotal57835)
-        Controls.Add(btnGenerateBill)
+        Controls.Add(btnNewOrder)
         Controls.Add(dgvInvoiceDetails)
         Margin = New Padding(4)
         Name = "form3"
@@ -221,7 +221,7 @@ Partial Class form3
     Friend WithEvents amount As DataGridViewTextBoxColumn
     Friend WithEvents txtSubTotal As TextBox
     Friend WithEvents subTotal57835 As Label
-    Friend WithEvents btnGenerateBill As Button
+    Friend WithEvents btnNewOrder As Button
     Friend WithEvents Panel1 As Panel
     Friend WithEvents Label1 As Label
     Friend WithEvents TextBox4 As TextBox

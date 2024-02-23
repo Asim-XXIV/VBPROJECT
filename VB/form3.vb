@@ -2,6 +2,7 @@
 
 Public Class form3
     Private connectionString As String = "Data Source=DESKTOP-G82B7UC\SQLEXPRESS;Initial Catalog=Userdetails;Integrated Security=True"
+
     Private Sub form3_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         ' Retrieve and display the highest invoice number
         Dim highestInvoiceNumber As Integer = GetHighestInvoiceNumber()
@@ -78,6 +79,15 @@ Public Class form3
         Catch ex As Exception
             MessageBox.Show("An error occurred while retrieving invoice details: " & ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
         End Try
+    End Sub
+
+    Private Sub btnNewOrder_Click(sender As Object, e As EventArgs) Handles btnNewOrder.Click
+        ' Close the current instance of Form3
+        Me.Close()
+        ' Show the existing instance of Form2
+        form2.Show()
+        ' Clear the input parameters in Form2
+        form2.ClearInputParameters()
     End Sub
 
     Private Sub dgvInvoiceDetails_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles dgvInvoiceDetails.CellContentClick
